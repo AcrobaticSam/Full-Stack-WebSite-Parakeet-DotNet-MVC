@@ -31,7 +31,7 @@ namespace Parakeet.Web.Controllers
             {
                 model.Pager = new Pager(totalRecords, pageNo, 10);
 
-                return PartialView("_CategoryTable", model);
+                return PartialView("CategoryTable", model);
             }
             else
             {
