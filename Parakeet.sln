@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31025.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parakeet.Web", "Parakeet.Web\Parakeet.Web.csproj", "{AC074362-6F95-4E0F-9C29-2AC3047395AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prakeet.Entities", "Prakeet.Entities\Prakeet.Entities.csproj", "{6B0A71E1-264C-4F3A-85AF-73012EE54466}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parakeet.Entities", "Prakeet.Entities\Parakeet.Entities.csproj", "{6B0A71E1-264C-4F3A-85AF-73012EE54466}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParaKeet.Database", "ParaKeet.Database\ParaKeet.Database.csproj", "{87F60C7E-E9DD-4929-B88D-AB868E982842}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{6B0A71E1-264C-4F3A-85AF-73012EE54466}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B0A71E1-264C-4F3A-85AF-73012EE54466}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B0A71E1-264C-4F3A-85AF-73012EE54466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87F60C7E-E9DD-4929-B88D-AB868E982842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87F60C7E-E9DD-4929-B88D-AB868E982842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87F60C7E-E9DD-4929-B88D-AB868E982842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87F60C7E-E9DD-4929-B88D-AB868E982842}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
