@@ -51,12 +51,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="CategoriesService.cs" />
+    <Compile Include="ConfigurationsService.cs" />
+    <Compile Include="OrdersService.cs" />
+    <Compile Include="ProductsService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ShopService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ParaKeet.Database\ParaKeet.Database.csproj">
+      <Project>{87f60c7e-e9dd-4929-b88d-ab868e982842}</Project>
+      <Name>ParaKeet.Database</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Prakeet.Entities\Parakeet.Entities.csproj">
+      <Project>{6b0a71e1-264c-4f3a-85af-73012ee54466}</Project>
+      <Name>Parakeet.Entities</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

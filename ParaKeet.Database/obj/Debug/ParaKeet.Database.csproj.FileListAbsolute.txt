@@ -1,0 +1,16 @@
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\ParaKeet.Database\bin\Debug\ParaKeet.Database.dll.config
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\ParaKeet.Database\bin\Debug\ParaKeet.Database.dll
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\ParaKeet.Database\bin\Debug\ParaKeet.Database.pdb
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\ParaKeet.Database\bin\Debug\EntityFramework.dll
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\ParaKeet.Database\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\ParaKeet.Database\bin\Debug\Prakeet.Entities.dll
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\ParaKeet.Database\bin\Debug\Prakeet.Entities.pdb
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\ParaKeet.Database\bin\Debug\EntityFramework.xml
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\ParaKeet.Database\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\ParaKeet.Database\obj\Debug\ParaKeet.Database.csprojAssemblyReference.cache
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\ParaKeet.Database\obj\Debug\ParaKeet.Database.csproj.CoreCompileInputs.cache
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\ParaKeet.Database\obj\Debug\ParaKeet.Database.csproj.CopyComplete
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\ParaKeet.Database\obj\Debug\ParaKeet.Database.dll
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\ParaKeet.Database\obj\Debug\ParaKeet.Database.pdb
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\ParaKeet.Database\obj\Debug\ParaKeet.Database.Migrations.InitialCreate.resources
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\ParaKeet.Database\obj\Debug\ParaKeet.Database.csproj.GenerateResource.cache

@@ -1,7 +1,107 @@
-﻿@{
-    ViewBag.Title = "About";
-}
-<h2>@ViewBag.Title.</h2>
-<h3>@ViewBag.Message</h3>
+﻿﻿@{ ViewBag.Title = "About"; }
 
-<p>Use this area to provide additional information.</p>
+<!-- ======= What We Do Section ======= -->
+<section id="what-we-do" class="what-we-do">
+    <div class="container">
+        <section class="py-5 bg-light">
+            <div class="container">
+                <div class="row px-4 px-lg-5 py-lg-4 align-items-center">
+                    <div class="col-lg-6">
+                        <h1 class="h2 text-uppercase mb-0">About</h1>
+                    </div>
+                    <div class="col-lg-6 text-lg-right">
+                        <nav aria-label="breadcrumb">
+                            <ol class="breadcrumb justify-content-lg-end mb-0 px-0">
+                                <li class="breadcrumb-item"><a href="@Url.Action("Index", "Home")">Home</a></li>
+                                <li class="breadcrumb-item active" aria-current="page">About</li>
+                            </ol>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <div class="row py-4">
+            <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+                <div class="icon-box">
+                    <div class="icon"><i class="bx bxl-dribbble"></i></div>
+                    <h4><a href="">Foods</a></h4>
+                    <p>Explore our range of delicious bird & small mammal food.</p>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
+                <div class="icon-box">
+                    <div class="icon"><i class="bx bx-file"></i></div>
+                    <h4><a href="">Accessories</a></h4>
+                    <p>Acessories for cats ,dogs ,birds ,fishes and many kinds of pets.</p>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
+                <div class="icon-box">
+                    <div class="icon"><i class="bx bx-tachometer"></i></div>
+                    <h4><a href="">HealthCare</a></h4>
+                    <p>Vitamins and Other healthcare products in best affordable prices.</p>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</section><!-- End What We Do Section -->
+<!-- ======= About Section ======= -->
+<section id="about" class="about">
+    <div class="container">
+
+        <div class="row">
+            <div class="col-lg-6">
+                <img src="~/Content/images/birdbunny.png" class="img-fluid" alt="ogno">
+
+            </div>
+            <div class="col-lg-6 pt-4 pt-lg-0">
+                <h3>About Us</h3>
+                <p>
+                    Parakeet Company was built by a three friend team of veterinarians with a shared love of animals and a special passion for birds.
+
+                </p>
+                <ul>
+                    <li><i class="bx bx-check-double"></i> We respect the health and welfare of our pet customers.</li>
+                    <li><i class="bx bx-check-double"></i>We are strictly against any cruelty towards animals and we reject all animal abuse.</li>
+                    <li><i class="bx bx-check-double"> </i>We refuse testing on laboratory animals </li>
+                    <li><i class="bx bx-check-double"></i> We are not using any ingredients that may have negative impact on pet´s health</li>
+                </ul>
+
+            </div>
+        </div>
+        <div class="row py-4">
+            <div class="col-lg-6 pt-4 pt-lg-0">
+                <div class="row icon-boxes">
+                    <div class="col-md-6">
+                        <i class="bx bx-receipt"></i>
+                        <h4>Our Philospohy</h4>
+                        <p>
+                            We respect the health and welfare of our pet customers
+                            We refuse testing on laboratory animals
+                            We are strictly against any cruelty towards animals and we reject all animal abuse
+                            We are not using any ingredients that may have negative impact on pet´s health
+                        </p>
+                    </div>
+                    <div class="col-md-6 mt-4 mt-md-0">
+                        <i class="bx bx-cube-alt"></i>
+                        <h4>Quality Management</h4>
+                        <p>
+                            Pet´s health is our policy and principle
+                            Using freshly prepared deboned chicken or salmon in premium and super premium recipes
+                            No use of soy, risk ingredients, GMO
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6">
+
+                <img src="~/Content/images/bunny.png" class="img-fluid py-2" alt="ogno">
+            </div>
+        </div>
+    </div>
+</section><!-- End About Section -->

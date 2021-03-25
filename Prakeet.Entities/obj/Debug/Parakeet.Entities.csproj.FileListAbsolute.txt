@@ -1,0 +1,6 @@
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\Prakeet.Entities\bin\Debug\Prakeet.Entities.dll
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\Prakeet.Entities\bin\Debug\Prakeet.Entities.pdb
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\Prakeet.Entities\obj\Debug\Parakeet.Entities.csproj.CoreCompileInputs.cache
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\Prakeet.Entities\obj\Debug\Prakeet.Entities.dll
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\Prakeet.Entities\obj\Debug\Prakeet.Entities.pdb
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\Prakeet.Entities\obj\Debug\Parakeet.Entities.csprojAssemblyReference.cache

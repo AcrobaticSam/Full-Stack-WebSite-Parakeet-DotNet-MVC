@@ -1,0 +1,17 @@
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\Parakeet.Services\obj\Debug\Parakeet.Services.csprojAssemblyReference.cache
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\Parakeet.Services\obj\Debug\Parakeet.Services.csproj.CoreCompileInputs.cache
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\Parakeet.Services\bin\Debug\Parakeet.Services.dll.config
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\Parakeet.Services\bin\Debug\Parakeet.Services.dll
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\Parakeet.Services\bin\Debug\Parakeet.Services.pdb
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\Parakeet.Services\bin\Debug\EntityFramework.dll
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\Parakeet.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\Parakeet.Services\bin\Debug\ParaKeet.Database.dll
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\Parakeet.Services\bin\Debug\Prakeet.Entities.dll
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\Parakeet.Services\bin\Debug\ParaKeet.Database.pdb
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\Parakeet.Services\bin\Debug\ParaKeet.Database.dll.config
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\Parakeet.Services\bin\Debug\Prakeet.Entities.pdb
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\Parakeet.Services\bin\Debug\EntityFramework.xml
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\Parakeet.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\Parakeet.Services\obj\Debug\Parakeet.Services.csproj.CopyComplete
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\Parakeet.Services\obj\Debug\Parakeet.Services.dll
+D:\Projects\SD\Parakeet\Parakeet---Dot-Net-MVC-Website\Parakeet.Web\Parakeet.Services\obj\Debug\Parakeet.Services.pdb

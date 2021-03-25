@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parakeet.Entities", "Prakee
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParaKeet.Database", "ParaKeet.Database\ParaKeet.Database.csproj", "{87F60C7E-E9DD-4929-B88D-AB868E982842}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parakeet.Services", "Parakeet.Services\Parakeet.Services.csproj", "{D21D3449-E516-40BA-81F3-BCBE56BEBB23}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{87F60C7E-E9DD-4929-B88D-AB868E982842}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87F60C7E-E9DD-4929-B88D-AB868E982842}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87F60C7E-E9DD-4929-B88D-AB868E982842}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D21D3449-E516-40BA-81F3-BCBE56BEBB23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D21D3449-E516-40BA-81F3-BCBE56BEBB23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D21D3449-E516-40BA-81F3-BCBE56BEBB23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D21D3449-E516-40BA-81F3-BCBE56BEBB23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

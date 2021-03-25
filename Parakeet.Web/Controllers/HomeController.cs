@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Parakeet.Services;
+using Parakeet.Web.ViewModels;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -10,7 +12,11 @@ namespace Parakeet.Web.Controllers
     {
         public ActionResult Index()
         {
-            return View();
+            HomeViewModel model = new HomeViewModel();
+
+            model.FeaturedCategories = CategoriesService.Instance.GetFeaturedCategories();
+
+            return View(model);
         }
 
         public ActionResult About()
