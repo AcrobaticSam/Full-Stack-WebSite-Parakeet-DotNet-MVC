@@ -11,4 +11,4 @@
  3. Run The project using play button.
 
 #Short Demo
-[![Parakeet short demo](https://img.youtube.com/vi/CdzC_hzbq6Y/5.jpg)](https://www.youtube.com/watch?v=CdzC_hzbq6Y)
+[![Parakeet short demo](https://img.youtube.com/vi/CdzC_hzbq6Y/0.jpg)](https://www.youtube.com/watch?v=CdzC_hzbq6Y)
